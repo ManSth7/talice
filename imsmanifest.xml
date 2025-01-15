@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_61LCYyV0Pb0" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Talice Security Induction Course - WIP</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Talice_Security_Induction_Course_-_WIP_ORG">
+    <organization identifier="Talice_Security_Induction_Course_-_WIP_ORG">
+      <title>Talice Security Induction Course - WIP</title>
+      <item identifier="Talice_Security_Induction_Course_SCO" isvisible="true" identifierref="__61LCYyV0Pb0_RES">
+        <title>Talice Security Induction Course - WIP</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__61LCYyV0Pb0_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5wla45Dp4Fu.jpg" />
+      <file href="mobile/5vmOZ5IsWop.png" />
+      <file href="story_content/video_5tM5ybTkler_22_56_1280x720.mp4" />
+      <file href="mobile/poster_6J4oSkCIZh9_video_5tM5ybTkler_22_56_1280x720.jpg" />
+      <file href="story_content/video_6RPd32IuV2F_22_56_1280x720.mp4" />
+      <file href="mobile/poster_5Z9MyDWI31D_video_6RPd32IuV2F_22_56_1280x720.jpg" />
+      <file href="story_content/video_6QCgFxmPikT_22_56_1280x720.mp4" />
+      <file href="mobile/poster_5zQnlQdsBs8_video_6QCgFxmPikT_22_56_1280x720.jpg" />
+      <file href="story_content/video_6QZAslFixem_22_56_1280x720.mp4" />
+      <file href="mobile/poster_6PXh3WCAquX_video_6QZAslFixem_22_56_1280x720.jpg" />
+      <file href="story_content/video_6G4G6UyzMrZ_22_56_1280x720.mp4" />
+      <file href="mobile/poster_69Woa9Fpeqz_video_6G4G6UyzMrZ_22_56_1280x720.jpg" />
+      <file href="story_content/video_6ITCujPv635_22_56_1280x720.mp4" />
+      <file href="mobile/poster_6VTx21DupBH_video_6ITCujPv635_22_56_1280x720.jpg" />
+      <file href="story_content/video_5dOpz0245yz_22_56_1280x720.mp4" />
+      <file href="mobile/poster_6ey7NzhQLuY_video_5dOpz0245yz_22_56_1280x720.jpg" />
+      <file href="story_content/video_5xay7om7e0p_22_56_1280x720.mp4" />
+      <file href="mobile/poster_6pH85dDCyfY_video_5xay7om7e0p_22_56_1280x720.jpg" />
+      <file href="story_content/video_6VGICsCvDzk_22_56_1280x720.mp4" />
+      <file href="mobile/poster_6gDY1HSmCgy_video_6VGICsCvDzk_22_56_1280x720.jpg" />
+      <file href="story_content/video_5ujxjSYr8ge_22_56_1280x720.mp4" />
+      <file href="mobile/poster_5ikZhuILqqd_video_5ujxjSYr8ge_22_56_1280x720.jpg" />
+      <file href="story_content/video_6fExqeMXL4T_22_56_1280x720.mp4" />
+      <file href="mobile/poster_6gPhPQYRRqn_video_6fExqeMXL4T_22_56_1280x720.jpg" />
+      <file href="story_content/video_5joLnEXbk15_22_56_1280x720.mp4" />
+      <file href="mobile/poster_6aTQYkqdozC_video_5joLnEXbk15_22_56_1280x720.jpg" />
+      <file href="story_content/video_6hv82p6LhTh_22_56_1280x720.mp4" />
+      <file href="mobile/poster_6mmpJUj2WJl_video_6hv82p6LhTh_22_56_1280x720.jpg" />
+      <file href="story_content/video_6BVUmxGMDxM_22_56_1280x720.mp4" />
+      <file href="mobile/poster_6O0YdDvakAK_video_6BVUmxGMDxM_22_56_1280x720.jpg" />
+      <file href="meta.xml" />
+      <file href="mobile/6QjoIbpuCFq.png" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6TJf5DF7Rje.jpg" />
+      <file href="mobile/Slide5x1Jxm3vhcj.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5kLXtEcLRDK.js" />
+      <file href="html5/data/js/5kvn1Opx6C7.js" />
+      <file href="html5/data/js/5XFOl6jyGk8.js" />
+      <file href="html5/data/js/64a7tb1Buzn.js" />
+      <file href="html5/data/js/6Cmz4CrUy0G.js" />
+      <file href="html5/data/js/6DH8o8w6e2N.js" />
+      <file href="html5/data/js/6eMF0B4rkpw.js" />
+      <file href="html5/data/js/6F46qjcB3vC.js" />
+      <file href="html5/data/js/6FAaFP6jkz8.js" />
+      <file href="html5/data/js/6fDBRHch0tR.js" />
+      <file href="html5/data/js/6LpDYcc46Oq.js" />
+      <file href="html5/data/js/6MXospJmOnG.js" />
+      <file href="html5/data/js/6N82EQC5ddQ.js" />
+      <file href="html5/data/js/6RAz8ErMW21.js" />
+      <file href="html5/data/js/6rPaIQAB1Re.js" />
+      <file href="html5/data/js/6WTWZztwsys.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
